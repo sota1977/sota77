@@ -1,0 +1,303 @@
+#EXTM3U
+
+PRAIAS NORTE
+#EXTINF:-1 tvg-id="n/a", LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+
+
+PRAIAS CENTRO
+#EXTINF:-1 tvg-id="n/a", ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", COSTA NOVA
+http://video-auth1.iol.pt:1935/beachcam/costanova/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", VAGUEIRA CASA BRANCA
+http://video-auth1.iol.pt:1935/beachcam/vagueiracasablanca/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", VAGUEIRA LABREGO
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA TOCHA
+http://video-auth1.iol.pt:1935/beachcam/tocha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", TAMARGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/bcfigueiradois/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CABEDELO
+http://video-auth1.iol.pt:1935/beachcam/cabedelo/chunks.m3u8
+
+
+PRAIAS COSTA OESTE
+#EXTINF:-1 tvg-id="n/a", NAZARÉ PRAIA DO NORTE
+http://video-auth1.iol.pt:1935/beachcam/canhaonazare/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", NAZARÉ CANHÃO
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", NAZARÉ PRAIA DA VILA
+http://video-auth1.iol.pt:1935/beachcam/nazarepraiadavila/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SUPERTUBOS SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-supertubesov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", MOLHO LESTE
+https://cams.cdn-surfline.com/cdn-int/pt-molheleste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", ALMAGREIRA surfline
+https://cams.cdn-surfline.com/cdn-int/pt-almagreira/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", LAGIDE surfline
+https://cams.cdn-surfline.com/cdn-int/pt-lagide/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", BALEAL
+https://cams.cdn-surfline.com/cdn-int/pt-baleal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+
+
+PRAIAS DE MAFRA
+#EXTINF:-1 tvg-id="n/a", PRAIA DA CALADA
+http://video-auth1.iol.pt:1935/beachcam/praiadacalada/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SÃO LOURENÇO
+http://video-auth1.iol.pt:1935/beachcam/saolourenco/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", RIBEIRA D ILHAS
+http://video-auth1.iol.pt:1935/beachcam/bcmafraribeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a MATADOURO SKATEPARK
+http://video-auth1.iol.pt:1935/beachcam/matadouroskatepark/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a PRAIA DOS PESCADORES
+http://video-auth1.iol.pt:1935/beachcam/bcpescadores/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a PRAIA DO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiadosulericeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a FOZ DO LIZANDRO
+http://video-auth1.iol.pt:1935/beachcam/fozdolizandro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a SÃO JULIÃO
+http://video-auth1.iol.pt:1935/beachcam/saojuliao/chunks.m3u8
+
+
+
+PRAIAS SINTRA
+#EXTINF:-1 tvg-id="n/a", PRAIA GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA GRANDE SUL
+http://video-auth1.iol.pt:1935/beachcam/praiagrande2/chunks.m3u8
+
+
+
+PRAIAS CASCAIS
+#EXTINF:-1 tvg-id="n/a", GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA CRESMINA
+http://video-auth1.iol.pt:1935/beachcam/crismina/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA ARRIBA
+http://video-auth1.iol.pt:1935/beachcam/arriba/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", BAIA DE CASCAIS
+http://video-auth1.iol.pt:1935/beachcam/praiadospescadores/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA CONCEIÇÃO E DUQUESA
+http://video-auth1.iol.pt:1935/beachcam/conceicao/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA TAMARIZ
+http://video-auth1.iol.pt:1935/beachcam/tamariz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SÃO JOÃO DO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saojoaodoestoril/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PDG SKATE PARQUE 
+http://video-auth1.iol.pt:1935/beachcam/skateparkparquegeracoes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SÃO PEDRO DO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DAS AVENCAS
+http://video-auth1.iol.pt:1935/beachcam/praiadasavencas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PAREDE
+http://video-auth1.iol.pt:1935/beachcam/parede/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CARCAVELOS surfline
+https://cams.cdn-surfline.com/cdn-int/pt-carcavelosov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CARCAVELOS CALHAU surfline
+https://cams.cdn-surfline.com/cdn-int/pt-carcavelostricana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CARCAVELOS CALHAU
+http://video-auth1.iol.pt:1935/beachcam/carcavelos2/chunks.m3u8
+
+
+PRAIA OEIRAS
+#EXTINF:-1 tvg-id="n/a", PRAIA DA TORRE
+http://video-auth1.iol.pt:1935/beachcam/bctorre/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SANTO AMARO SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-santoamaro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SANTO AMARO
+http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PAÇO DE ARCOS surfline
+https://cams.cdn-surfline.com/cdn-int/pt-pacodearcos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PAÇO DE ARCOS
+http://video-auth1.iol.pt:1935/beachcam/parcos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CAXIAS
+http://video-auth1.iol.pt:1935/beachcam/caxias/chunks.m3u8
+
+
+
+COSTA DA CAPARICA
+
+#EXTINF:-1 tvg-id="n/a", Caparica
+https://cams.cdn-surfline.com/cdn-int/pt-costacaparica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", COVA DO VAPOR SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-covadovapor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", S.JOÃO SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-saojoaocaparica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", BARBAS SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-barbas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CORNELIA
+https://cams.cdn-surfline.com/cdn-int/pt-praiadacornelia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", RIVIERA
+http://video-auth1.iol.pt:1935/beachcam/riviera/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CASTELO
+https://cams.cdn-surfline.com/cdn-int/pt-castelo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", FONTE DA TELHA surfline
+https://cams.cdn-surfline.com/cdn-int/pt-fontedatelha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+
+
+PRAIA ALENTEJO
+#EXTINF:-1 tvg-id="n/a", CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", S. TORPES surfline
+https://cams.cdn-surfline.com/cdn-int/pt-storpespier/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+
+
+PRAIAS ALGARVE
+#EXTINF:-1 tvg-id="n/a", AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", AMADO SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-amado/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", ARRIFANA SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-arrifana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SAGRES SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-mareta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA LUZ SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-praiadaluz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", FERRAGUDO - PRAIA GRANDE
+http://video-auth1.iol.pt:1935/beachcam/ferragudo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", CARVOEIRO
+http://video-auth1.iol.pt:1935/beachcam/carvoeiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", SRA DA ROCHA E PRAIA NOVA
+http://video-auth1.iol.pt:1935/beachcam/bcigreja/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", MEIA PRAIA SURFLINE
+https://cams.cdn-surfline.com/cdn-int/pt-meiapraia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a", PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a", VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+
+PRAIAS ILHAS
+#EXTINF:-1 tvg-id="n/a", JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
