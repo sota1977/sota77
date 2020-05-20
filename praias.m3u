@@ -1,7 +1,7 @@
 #EXTM3U
 
 PRAIAS NORTE
-#EXTINF:-1,Home Video 1
+#EXTINF:-1,Home Video 1 type="stream"
 http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
 
 #EXTINF:-1 tvg-id="n/a", MATOSINHOS
