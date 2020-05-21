@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="n/a", LEÇA DA PALMEIRA http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
-</td>
+#EXTINF:-1 tvg-id="n/a", LEÇA DA PALMEIRA 
+<td>http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8 </td>
